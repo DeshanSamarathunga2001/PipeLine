@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+plotly
+joblib
+pyyaml
+python-dotenv
+ydata-profiling  # Updated from pandas-profiling
+statsmodels
+ipython
